@@ -23,6 +23,7 @@ sub_ecosystems = [
   "BlockPi Network",
   "Cellana Finance",
   "ComingChat",
+  "DeFai-Nexus",
   "Deploy DAO",
   "Ditto Finance",
   "Doubt-It",
@@ -367,6 +368,9 @@ url = "https://github.com/0xJayShen/aptos-multi-coin-send-tool"
 
 [[repo]]
 url = "https://github.com/0xjunha/apt-reward-script"
+
+[[repo]]
+url = "https://github.com/Rajkishore08/DeFai-Nexus"
 
 [[repo]]
 url = "https://github.com/0xjunha/aptos-burnable-coin"
