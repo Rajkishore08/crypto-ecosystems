@@ -13,6 +13,7 @@ sub_ecosystems = [
   "Aptos Passport",
   "Aptos Rabbit",
   "Aptosis",
+  "AptosDeFAI",
   "AptStats",
   "Aries Markets",
   "AUX Exchange",
@@ -114,6 +115,10 @@ url = "https://github.com/0x6368616e67/aptos-core"
 
 [[repo]]
 url = "https://github.com/0x6368616e67/aptos-sdk-go"
+
+
+[[repo]]
+url = "https://github.com/Rajkishore08/AptosDeFAI"
 
 [[repo]]
 url = "https://github.com/0xabo/aptogotchi"
